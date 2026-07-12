@@ -1,2 +1,2 @@
 # dc-decision-science
-Where data insights become well informed decisions in transportation
+Bridging transportation expertise with data-driven decision making.
