@@ -12,3 +12,9 @@ Learning through mental models, analogies, and visual thinking.
 - **Clone** = checking out a copy of a library book so I can have it anywhere.
 - **README** = note to future self(The reception desk). It tells visitors what they're looking at and why it matters.
 - **Git** = My time machine. Ever commit creates a save point that can be returned to later if needed!
+
+# DC Decision Science Terminology
+
+ - **Operating System** = The playbook for how my company works.
+ - **Decision Question** = The question a leader needs answered before taking action.
+ - **Consistency** = Doing good work the same way every time.

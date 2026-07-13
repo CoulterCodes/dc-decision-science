@@ -8,8 +8,6 @@ Build the knowledge, skills, and portfolio necessary to become a trusted Decisio
 
 ## Guiding Principle
 
-Technology doesn't create better businesses.
-
-Better decisions do.
+Every case study begins with a decision question. **Technology doesn't create better businesses. Better decisions do.**
 
 Technology simply helps us make those decisions.
