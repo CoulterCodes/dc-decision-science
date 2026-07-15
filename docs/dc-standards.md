@@ -25,5 +25,24 @@ Ask these questions **in order**.
 ---
 ## DC Standard 001
 
-- Ever case study must produce actionable recommendations that improve operational performance while maintaining or improving safety.
+- Every engagement bgins with understanding the client's business context before analyzing data.
 
+## DC Standard 002
+
+- Ever engagement begins with a clearly defined Decision Question before any technical work.
+
+## DC Standard 003
+
+ - Learn and apply technology only when it becomes necessary to solve the current business problem.
+
+## DC Standard 004
+
+ - Every engagement must produce actonable recommendations that improve operational performance while protecting the organization's core values. 
+
+## DC Standard 005
+ 
+ - Consulting recommendations are tested against evidence, not intuition alone.
+
+## DC standard 006
+
+ - State the leading hypothesis before collecting or analyzing data. 
